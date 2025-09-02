@@ -1,4 +1,6 @@
 # CS 189 - Introduction to Machine Learning
+
+## Course Description
 > Machine learning is at the core of modern artificial intelligence, transforming how we approach problems in vision, language, robotics, recommendation systems, and countless other areas. This course introduces the theoretical foundations, algorithms, and applications of machine learning, combining mathematical rigor with practical experience.
 >
 > Throughout the semester, we will explore the full pipeline of machine learning from problem formulation and working with data, to designing models and optimizing them. We will begin with a discussion of what machine learning is, how problems are framed and categorized, and the taxonomy of common learning paradigms. We will review the mathematical background necessary for the course, including probability and optimization concepts.
