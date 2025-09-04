@@ -8,16 +8,6 @@
 > 1. How would I evaluate success
 > 2. What loss should I use?
 
-## Example for 1 and 2
-> We are launching a new fashion trading website where people
-can upload pictures of clothing they want to trade.
-> - We want to automatically tag the clothing into categories based
-on what sellers upload.
-> - We have some example clothing pictures with category labels.
->> 1. What do we want to predict? => Type of clothing
->> 2. What data do we have? => Labeled Pairs
->> 3. How would we evaluate success? => Overall Accuracy?
-
 ## 3. Data
 > 1. What data do I have
 > 2. Data representation
@@ -38,6 +28,20 @@ on what sellers upload.
 >>
 >> ***Look at the data!! (sample, read, plot...)***
 
-## 4. Demo for visualization
+## 4. Example
+> We are launching a new fashion trading website where people
+can upload pictures of clothing they want to trade.
+> - We want to automatically tag the clothing into categories based
+on what sellers upload.
+> - We have some example clothing pictures with category labels.
+>> 1. What do we want to predict? => Type of clothing
+>> 2. What data do we have? => Labeled Pairs
+>> 3. How would we evaluate success? => Overall Accuracy?
+
+## 5. Demo for visualization
 > There is a demo for visualizing visual data (ex. photo) - [Link](https://colab.research.google.com/github/BerkeleyML/fa25-student/blob/main/lec/lec03/lec03.ipynb?authuser=1#scrollTo=Mtq3dxa3nMRq)
+
+
+
+
  
