@@ -41,6 +41,7 @@ on what sellers upload.
 ## 5. Demo for visualization
 > There is a demo for visualizing visual data (ex. photo) - [Link](https://colab.research.google.com/github/BerkeleyML/fa25-student/blob/main/lec/lec03/lec03.ipynb?authuser=1#scrollTo=Mtq3dxa3nMRq)
 
+![6. Te]()
 
 
 
