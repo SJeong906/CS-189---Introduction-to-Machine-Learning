@@ -14,4 +14,4 @@
 ## 2. Contents
 
 1. Data Tools - [Notes](), [Homework 1(Written)](), [Homework 1(Code)]()
-
+2. ML Mechanics, Terminology, and Techniques - [Notes](), [Homework 1(Written)](), [Homework 1(Code)]()
