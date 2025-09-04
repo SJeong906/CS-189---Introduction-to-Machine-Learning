@@ -13,6 +13,5 @@
 
 ## 2. Contents
 
-1. Data Tools
-> This is Sample, the Notes will be [here]()
+1. Data Tools - [Notes](), [Homework 1(Written)](), [Homework 1(Code)]()
 
