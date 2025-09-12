@@ -13,7 +13,6 @@
 
 ## 2. Contents
 
-## 2. Contents
 |Contents                            |Project|
 |------------------------------------|-------|
 |  Data Tools       |[Homework 1]()|
