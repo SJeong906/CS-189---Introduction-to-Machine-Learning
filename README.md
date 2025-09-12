@@ -13,5 +13,29 @@
 
 ## 2. Contents
 
-1. Data Tools - [Notes](), [Homework 1(Written)](), [Homework 1(Code)]()
-2. ML Mechanics, Terminology, and Techniques - [Notes](), [Homework 1(Written)](), [Homework 1(Code)]()
+## 2. Contents
+|Contents                            |Project|
+|------------------------------------|-------|
+|  Data Tools       |[Homework 1]()|
+| ML Mechanics, Terminology, and Techniques  |       |
+| K-Means and Probability            |      |
+| Density Estimation and Gaussian Mixture Models  |       |
+| Linear Regression MLE              |       |
+| Linear Regression                  |       |
+| MLE + Logistic Regression (1)      |[Homework 2]()       |
+| MLE + Logistic Regression (2)      |       |
+| Gradient Descent (1)           |       |
+| Gradient Descent (2)              |       |
+| Neural Networks (1): Build Non-linearity, Architecture, Activation Functions |       |
+| Neural Networks (2)                  |       |
+| Neural Networks (3): Backpropagation |[Homework 3]()|
+| Neural Networks (4): Batch Normalization, Initialization, Regularization |       |
+| Neural Networks & Backpropagation                   |       |
+| Architectures: CNN                  |       |
+| Architectures: RNN                |        |
+| Transformers                       |[Homework 4]()|
+| Generative Models - NLP (LLM) Part 1 |       |
+| Generative Models - NLP (LLM) Part 2 |       |
+| Dimensionality Reduction (PCA) |       |
+| Auto-encoder + GAN Basics |[Homework 5]()|
+
