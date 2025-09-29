@@ -21,7 +21,7 @@
 | Density Estimation and Gaussian Mixture Models  |       |
 | Linear Regression MLE              |       |
 | Linear Regression                  |       |
-| MLE + Logistic Regression (1)      |[Homework 2]()       |
+| MLE + Logistic Regression (1)      |[Project 2 : Welcome to Arena]()       |
 | MLE + Logistic Regression (2)      |       |
 | Gradient Descent (1)           |       |
 | Gradient Descent (2)              |       |
