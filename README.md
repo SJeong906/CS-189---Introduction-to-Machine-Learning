@@ -16,7 +16,7 @@
 |Contents                            |Project|
 |------------------------------------|-------|
 |  Data Tools       |[Project 1.1 : AGI, Everywhere, All at Once](https://github.com/SJeong906/CS-189---Introduction-to-Machine-Learning/blob/main/Project%201/fashion_pt_1.ipynb)|
-| ML Mechanics, Terminology, and Techniques  |[Project 1.2 : AGI, Everywhere, All at Once]()|
+| ML Mechanics, Terminology, and Techniques  |[Project 1.2 : AGI, Everywhere, All at Once](https://github.com/SJeong906/CS-189---Introduction-to-Machine-Learning/blob/main/Project%201/fashion_pt_2.ipynb)|
 | K-Means and Probability            |      |
 | Density Estimation and Gaussian Mixture Models  |       |
 | Linear Regression MLE              |       |
